@@ -11,8 +11,8 @@ spec:
       labels:
         app: sample-spring-kotlin-microservice
       annotations:
-        revision: "fd45222515f8f1e50fc05b351f5d00bf2113d08e"
-        buildDate: "20211130130657"
+        revision: "9bd9198f08692f9a8116a6b2bd61663da4f571a0"
+        buildDate: "20211130131055"
     spec:
       containers:
       - name: sample-spring-kotlin-microservice
